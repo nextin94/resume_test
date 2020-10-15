@@ -1,0 +1,84 @@
+body {
+    background-color: #f5f7fa;
+}
+
+.wrapper {
+    margin: 40px;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Montserrat';
+}
+
+.saidbar {
+    width: 370px;
+    height: 1319px;
+    background-color: #1e2939;
+    float: left;
+}
+
+.content {
+    height: 1319px;
+}
+
+.content-text {
+    padding-left: 458px;
+    padding-top: 108px;
+}
+
+.aside-text {
+    color: white;
+    padding-top: 57px;
+}
+
+.aside-text > p {
+    color: white;
+    margin-left: 41px;
+}
+
+aside > img {
+    width: 370px;
+    height: 354px;
+    margin-top: 40px;
+}
+
+.white-ml-41 {
+    margin-left: 41px;
+    margin-top: 60px;
+}
+
+h5, h3, h1{
+    font-weight: 700;
+}
+
+p {
+    width: 413px;
+    text-align: justify;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+ol {
+    list-style: none;
+    font-weight: 400;
+}
+
+.num {
+    font-weight: bold;
+}
+
+.color-org {
+    color: #ff6b08;
+}
+
+.min-c {
+    color: #a8a8a8;
+}
+
+#color-59 {
+    color: #595959;
+}
